@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://www.escolaanct.com.br/images/men2.png');
+    background-color: rgb(0, 137, 201);
+    background-size: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color:#2113df;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color:#29df32;
+    margin-top: 5px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
